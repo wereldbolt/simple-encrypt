@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/wereldbolt/simple-encrypt/issues"
   },
-  "homepage": "https://github.com/wereldbolt/simple-encrypt#readme"
+  "homepage": "https://github.com/wereldbolt/simple-encrypt#readme",
+  "devDependencies": {
+    "tape": "^4.13.0"
+  }
 }
