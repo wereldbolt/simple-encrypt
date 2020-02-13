@@ -1,0 +1,27 @@
+{
+  "name": "simple-encrypt",
+  "version": "1.0.0",
+  "description": "Simple encryption and decryption",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wereldbolt/simple-encrypt.git"
+  },
+  "keywords": [
+    "encrypt",
+    "decrypt"
+  ],
+  "author": "Ernst Bolt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wereldbolt/simple-encrypt/issues"
+  },
+  "homepage": "https://github.com/wereldbolt/simple-encrypt#readme"
+}
