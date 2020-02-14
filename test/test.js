@@ -8,7 +8,7 @@ const encryptor = require('../')({log: log, error: error});
 * openssl rand -base64 32 # 256-bit secret
 */
 
-const testSecret = "C2TQUXOwOCRt2VJYzK2bkl33dXh4V0ovnjWCjxnza+A=";
+const testSecret = "<generated secret here>";
 
 test('Create code', function (t) {
 
